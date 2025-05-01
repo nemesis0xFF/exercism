@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/stratus/dev/exercism/cpp/hello-world/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
