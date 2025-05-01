@@ -1,0 +1,4 @@
+/home/stratus/dev/exercism/cpp/pacman-rules/CMakeFiles/pacman-rules.dir
+/home/stratus/dev/exercism/cpp/pacman-rules/CMakeFiles/test_pacman-rules.dir
+/home/stratus/dev/exercism/cpp/pacman-rules/CMakeFiles/edit_cache.dir
+/home/stratus/dev/exercism/cpp/pacman-rules/CMakeFiles/rebuild_cache.dir

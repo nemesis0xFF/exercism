@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/stratus/dev/exercism/cpp/pacman-rules/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
