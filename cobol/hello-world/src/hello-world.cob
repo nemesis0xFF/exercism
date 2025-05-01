@@ -6,6 +6,4 @@
        01 WS-RESULT PIC X(14).
        PROCEDURE DIVISION.
        HELLO-WORLD.
-        MOVE "Goodbye, Mars!" TO WS-RESULT.
-
-            
+        MOVE "Hello, World!" TO WS-RESULT.
