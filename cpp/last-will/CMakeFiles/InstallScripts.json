@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/stratus/dev/exercism/cpp/last-will/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
