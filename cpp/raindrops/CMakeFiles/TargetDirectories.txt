@@ -1,0 +1,4 @@
+/home/stratus/dev/exercism/cpp/raindrops/CMakeFiles/raindrops.dir
+/home/stratus/dev/exercism/cpp/raindrops/CMakeFiles/test_raindrops.dir
+/home/stratus/dev/exercism/cpp/raindrops/CMakeFiles/edit_cache.dir
+/home/stratus/dev/exercism/cpp/raindrops/CMakeFiles/rebuild_cache.dir
