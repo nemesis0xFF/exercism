@@ -1,0 +1,4 @@
+/home/stratus/dev/exercism/cpp/freelancer-rates/CMakeFiles/freelancer-rates.dir
+/home/stratus/dev/exercism/cpp/freelancer-rates/CMakeFiles/test_freelancer-rates.dir
+/home/stratus/dev/exercism/cpp/freelancer-rates/CMakeFiles/edit_cache.dir
+/home/stratus/dev/exercism/cpp/freelancer-rates/CMakeFiles/rebuild_cache.dir
