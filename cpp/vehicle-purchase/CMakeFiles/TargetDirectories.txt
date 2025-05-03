@@ -1,0 +1,4 @@
+/home/stratus/dev/exercism/cpp/vehicle-purchase/CMakeFiles/vehicle-purchase.dir
+/home/stratus/dev/exercism/cpp/vehicle-purchase/CMakeFiles/test_vehicle-purchase.dir
+/home/stratus/dev/exercism/cpp/vehicle-purchase/CMakeFiles/edit_cache.dir
+/home/stratus/dev/exercism/cpp/vehicle-purchase/CMakeFiles/rebuild_cache.dir
