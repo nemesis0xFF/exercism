@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/making-the-grade.dir/link.d "CMakeFiles/making-the-grade.dir/making_the_grade_test.cpp.o" "CMakeFiles/making-the-grade.dir/test/tests-main.cpp.o" -o making-the-grade
