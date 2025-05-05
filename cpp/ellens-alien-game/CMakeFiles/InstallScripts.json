@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/stratus/dev/exercism/cpp/ellens-alien-game/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

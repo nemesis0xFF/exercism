@@ -1,0 +1,4 @@
+/home/stratus/dev/exercism/cpp/ellens-alien-game/CMakeFiles/ellens-alien-game.dir
+/home/stratus/dev/exercism/cpp/ellens-alien-game/CMakeFiles/test_ellens-alien-game.dir
+/home/stratus/dev/exercism/cpp/ellens-alien-game/CMakeFiles/edit_cache.dir
+/home/stratus/dev/exercism/cpp/ellens-alien-game/CMakeFiles/rebuild_cache.dir
