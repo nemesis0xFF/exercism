@@ -1,0 +1,4 @@
+/home/stratus/dev/exercism/cpp/atbash-cipher/CMakeFiles/atbash-cipher.dir
+/home/stratus/dev/exercism/cpp/atbash-cipher/CMakeFiles/test_atbash-cipher.dir
+/home/stratus/dev/exercism/cpp/atbash-cipher/CMakeFiles/edit_cache.dir
+/home/stratus/dev/exercism/cpp/atbash-cipher/CMakeFiles/rebuild_cache.dir
