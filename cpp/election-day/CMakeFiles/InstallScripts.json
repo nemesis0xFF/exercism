@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/stratus/dev/exercism/cpp/election-day/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

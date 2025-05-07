@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/election-day.dir/link.d "CMakeFiles/election-day.dir/election_day_test.cpp.o" "CMakeFiles/election-day.dir/test/tests-main.cpp.o" -o election-day
