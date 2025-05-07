@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/stratus/dev/exercism/cpp/difference-of-squares/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
